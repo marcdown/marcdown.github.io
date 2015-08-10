@@ -1,0 +1,16 @@
+a {
+  color: #999;
+}
+a:hover,
+a:focus {
+  color: #333;
+}
+
+.jumbotron {
+	background-color: #fff;
+}
+
+.jumbotron .btn {
+	margin: 10px;
+	padding: 15px 20px;
+}
